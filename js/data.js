@@ -1,74 +1,66 @@
-const data = [
-  {
-    sibling: {
-      name: "Roy",
+/*
+* Sibling data
+* Vote count for testing purposes
+*/
+let siblings = [
+    {
+      name: 'Roy',
       rank: 1,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Sally",
+    {
+      name: 'Sally',
       rank: 2,
+      voteCount: 3,
     },
-  },
-  {
-    sibling: {
-      name: "Jason",
+    {
+      name: 'Jason',
       rank: 3,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Jonny",
+    {
+      name: 'Jonny',
       rank: 4,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Nathan",
+    {
+      name: 'Nathan',
       rank: 5,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Abby",
+    {
+      name: 'Abby',
       rank: 6,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Kenny",
+    {
+      name: 'Kenny',
       rank: 7,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Charles",
+    {
+      name: 'Charles',
       rank: 8,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Reuben",
+    {
+      name: 'Reuben',
       rank: 9,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Jesse",
+    {
+      name: 'Jesse',
       rank: 10,
+      voteCount: 0,
     },
-  },
-  {
-    sibling: {
-      name: "Savannah",
+    {
+      name: 'Savannah',
       rank: 11,
+      voteCount: 0
     },
-  },
-  {
-    sibling: {
-      name: "Bailey",
-      rank: 12
+    {
+      name: 'Bailey',
+      rank: 12,
+      voteCount: 0
     }
-  }
-]
+];
