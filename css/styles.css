@@ -4,6 +4,22 @@ body {
   font-family: "Prompt", sans-serif;
 }
 
+button {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1.5rem;
+  position: relative;
+  background-color: orange;
+  border-radius: 5px;
+  width: 90%;
+  margin: auto;
+  display: block;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
+
 .header-container {
   text-align: center;
 }
