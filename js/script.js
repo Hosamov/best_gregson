@@ -4,7 +4,7 @@ function insertData(rank, name, voteCount) {
   const rankNum = document.getElementById(rank);
   rankNum.insertAdjacentHTML('beforeend', `
     <td> ${name} </td>
-    <td> ${data.roy.rank} </td>
+    <td> <button>VOTE!</button> </td>
     <td> ${voteCount}</td>
   `);
 }
